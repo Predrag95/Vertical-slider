@@ -86,3 +86,7 @@ button:first-of-type {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.left-slide, .right-slide {
+  transition: 0.5s ease-in-out;
+}
